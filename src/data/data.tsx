@@ -105,10 +105,6 @@ export const skills: SkillGroup[] = [
         name: 'Typescript',
         level: 8,
       },
-      {
-        name: 'GraphQL',
-        level: 6,
-      },
     ],
   },
   {
@@ -134,7 +130,7 @@ export const skills: SkillGroup[] = [
  * Portfolio section
  */
 export const portfolioItems: PortfolioItem[] = [
-
+  
 ];
 
 /**
